@@ -2,7 +2,7 @@ Project Explanation Document
 AI Research Assistant
 Objective
 The "AI Research Assistant" is an intelligent system designed to automate research workflows. It takes a user query, searches reliable sources, cross-validates facts, and generates a professional, academic-style report in markdown format. The project aims to reduce human effort in gathering, validating, and presenting research information.
-
+![Image](https://github.com/user-attachments/assets/5872ddf1-942e-4229-8c78-dd166491c8cf)
 System Overview
 The assistant combines modern LLM capabilities with real-time search APIs to create a multi-stage research and writing pipeline. The system:
 1.	Accepts a user query through a simple Streamlit interface.
