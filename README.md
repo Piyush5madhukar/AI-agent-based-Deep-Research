@@ -1,4 +1,4 @@
-Project Explanation Document
+Project Explanation Document (deployed link : https://huggingface.co/spaces/piyushmadhukar/DEEP_RESEARCH_AGENTICAI_SYSTEM)
 AI Research Assistant
 Objective
 The "AI Research Assistant" is an intelligent system designed to automate research workflows. It takes a user query, searches reliable sources, cross-validates facts, and generates a professional, academic-style report in markdown format. The project aims to reduce human effort in gathering, validating, and presenting research information.
